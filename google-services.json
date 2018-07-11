@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "506472900000",
+    "firebase_url": "https://noteit-59ea2.firebaseio.com",
+    "project_id": "noteit-59ea2",
+    "storage_bucket": "noteit-59ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506472900000:android:3bd79b48ded55745",
+        "android_client_info": {
+          "package_name": "com.ddlabs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506472900000-ul6taij7a2qvn187kicj5pcif94s9fst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WhG2ji4jTr_uzfjHxBFPqg0Qyq29iHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
